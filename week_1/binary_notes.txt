@@ -1,0 +1,55 @@
+
+numbers 0 - 9 is called base ten or decimal notation
+decem means 10
+
+437 can be broken up into 
+400 + 30 + 7
+and
+4 * 100 + 3 * 10 + 7 * 1
+this helps you find the ones place, the tens place etc
+
+a 0-1 notation system is binary
+bi means 2
+placements of binary
+
+0 in binary is 0
+1 in binary is 1
+2 in binary is 10
+3 in binary is 11
+4 in binary is 100
+5 in binary is 101
+6 in binary is 110
+7 in binary is 111
+8 in binary is 1000
+
+convert binary to decimal
+101110011 
+
+lets start by writing the places under each of these digits
+to start
+
+101110011
+876543210
+the right hand one is the 1's place
+in binary the places are counted up as 
+1 2 4 8 16 32 64 128 256
+
+1 * 256 + 1 * 64 + 1 * 32 + 1 * 16 + 1 * 2 + 1 * 1 = 
+256 + 64 + 32 + 16 + 2 + 1 = 371
+
+237 in decimal notation
+largest power of 2 less than this
+which is 128
+237 - 128 = 109
+then repeat the process 
+109 - 64 = 45
+repeat
+45 - 32 = 13
+repeat
+13 - 8 = 5
+repeat
+5 - 4 = 1
+
+do the number line thing http://imgur.com/2ZfXXRf
+
+
